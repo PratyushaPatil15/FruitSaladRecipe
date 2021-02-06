@@ -1,1 +1,1 @@
-# FruitSaladRecipe
+# carrot-soup-recipe
